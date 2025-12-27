@@ -9,10 +9,10 @@ terraform {
   }
 }
 
-# resource "aws_s3_object" "image_upload" {
-#   bucket = "my-terraform-project-s3-bucket"
-#   key    = "images/devops.jpeg"
-#   source = "images/devops.jpeg"
+resource "aws_s3_object" "image_upload" {
+  bucket = "my-terraform-project-s3-bucket"
+  key    = "images/devops.jpeg"
+  source = "images/devops.jpeg"
 
-#   content_type = "image/jpeg"
-# }
+  content_type = "image/jpeg"
+}
