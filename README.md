@@ -134,3 +134,11 @@ Version Control Ready Infrastructure
 Successfully automated S3 bucket creation using Terraform
 Improved understanding of AWS + Terraform integration
 Hands-on experience aligned with DevOps Engineer role requirements
+
+#Screenshots
+<img width="1533" height="584" alt="s1" src="https://github.com/user-attachments/assets/755eb25d-079c-4f85-8063-457981ca6ab0" />
+<img width="1551" height="458" alt="pg1" src="https://github.com/user-attachments/assets/b1e3995f-1044-4809-b7bc-371e00bea028" />
+<img width="941" height="524" alt="pg2" src="https://github.com/user-attachments/assets/3d7ce37a-aef6-41a2-967d-8f34fcfba77f" />
+
+
+
